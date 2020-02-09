@@ -1,6 +1,13 @@
-# lifesci-ai-repo
+# Resources for Next Generation Life Science Product Managers
 Repository of all life science resources (readings, datasets etc.), codebases and dashboards
 
+---
+## Selected Scientific Literature
+
+---
+## Other Interesting Readings
+
+---
 ## Multi-Modal Life Science Datasets
 | Dataset Name       | Data Modalities           |  Link |
 | ------------- |:-------------:| -----:|
