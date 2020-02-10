@@ -10,7 +10,7 @@ in Retinal Fundus Photographs](https://static.googleusercontent.com/media/resear
 
 ---
 ## Other Interesting Readings
-
+- [The Innovator's Prescription](http://claytonchristensen.com/books/the-innovators-prescription/): Clayton Christensen's take on disruptive innovations in healthcare/life science. 
 ---
 ## Multi-Modal Life Science Datasets
 | Dataset Name       | Data Modalities           |  Link |
