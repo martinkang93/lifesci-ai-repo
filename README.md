@@ -19,3 +19,4 @@ in Retinal Fundus Photographs](https://static.googleusercontent.com/media/resear
 | The Cancer Genome Atlas (TCGA)| Genomics (Whole Genome Seq., RNA-Seq, Methylation array etc.), Whole Slide Images, Radiology (TCIA, limited), Structured Clinical Data (only outcome available is OS) | https://portal.gdc.cancer.gov |
 | The Cancer Imaging Archive | Imaging, Clinical, limited Genomics (some overlap with TCGA) | https://www.cancerimagingarchive.net |
 |  Clinical Proteomic Tumor Analysis Consortium (CPTAC) | Proteomics, Genomics, Imaging, limited Clinical      |    https://cptac-data-portal.georgetown.edu/cptacPublic/ |
+| MIMIC III Dataset | Structured Clinical Data (prescription, ICD diagnosis, lab values) and unstructured (clinical notes, images, ECG etc.) | https://mimic.physionet.org/ |
