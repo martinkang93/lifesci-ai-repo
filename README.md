@@ -1,4 +1,4 @@
-# Resources for Life Science Product Managers
+# Resources for Life Science Data Science
 Repository of all life science resources (readings, datasets etc.), codebases and dashboards
 
 ---
